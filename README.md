@@ -8,8 +8,6 @@ This is a frontend engineering assessment for Sunday, focused on building a Reac
 - We recommend using a VSCode-based IDE, as you can open a browser tab so the interviewer can see the app running. If you're using a different IDE, you can run the app locally and share your code, and the interviewer can run it in their browser at a later time after you submit.
 - We are less concerned with the completeness of the solution, and more concerned with your approach to solving the problem and working with the interviewer.
 
-## Challenge & Requirements
-To be sent once the interview session starts. Feel free to familiarize yourself with the project ahead of time.
 
 ## Challenge & Requirements
 Your task is to demonstrate your knowledge of leveraging React components to implement the missing functionality in this application, allowing users to build a lawn care subscription plan by adding products to their subscription and generating a shipment schedule based on the application dates of the products.
